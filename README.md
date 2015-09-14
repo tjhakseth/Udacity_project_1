@@ -11,7 +11,7 @@ on your terminal application:
 	$ git clone https://github.com/tjhakseth/Udacity_project_1.git
 
 ### Running the program
-Open terminal and excute the following commands:
+Open terminal and execute the following commands:
 
 	$ cd Udacity_project_1
 	$ python entertainment_center.py
