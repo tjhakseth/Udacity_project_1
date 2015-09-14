@@ -1,7 +1,7 @@
 # Entertainment center
 
 ### Requirements
-You'll need to install Python, git or GitHub application and have access to the internet
+You'll need to install Python, git or GitHub application, have access to the internet and
 the terminal application.
 
 ### Downloading
