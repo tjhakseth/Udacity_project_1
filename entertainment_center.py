@@ -4,7 +4,7 @@ import media
 # List of favorite movies for the website
 
 dumb_and_dumber = media.Movie(
-"Dumb and Dumber",
+    "Dumb and Dumber",
     "Two men go to Aspen",
     "https://upload.wikimedia.org/wikipedia/en/6/64/Dumbanddumber.jpg",
     "https://www.youtube.com/watch?v=J5pZCQT7JkM",
