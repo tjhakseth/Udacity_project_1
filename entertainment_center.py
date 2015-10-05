@@ -4,11 +4,11 @@ import media
 # List of favorite movies for the website
 
 dumb_and_dumber = media.Movie(
-        "Dumb and Dumber",
-        "Two men go to Aspen",
-        "https://upload.wikimedia.org/wikipedia/en/6/64/Dumbanddumber.jpg",
-        "https://www.youtube.com/watch?v=J5pZCQT7JkM",
-        7.3)
+"Dumb and Dumber",
+    "Two men go to Aspen",
+    "https://upload.wikimedia.org/wikipedia/en/6/64/Dumbanddumber.jpg",
+    "https://www.youtube.com/watch?v=J5pZCQT7JkM",
+    7.3)
 
 forrest_gump = media.Movie(
 	"Forrest Gump",
@@ -45,7 +45,8 @@ life_of_brian = media.Movie(
 	"https://www.youtube.com/watch?v=tOOVm4kY4lE",
 	8.1)
 
-movies = [forrest_gump, zoolander, bridesmaids, dr_strangelove, dumb_and_dumber, life_of_brian]
+movies = [forrest_gump, zoolander, bridesmaids, dr_strangelove,
+          dumb_and_dumber, life_of_brian]
 
 # Open the website with the list of movies
 fresh_tomatoes.open_movies_page(movies)  
